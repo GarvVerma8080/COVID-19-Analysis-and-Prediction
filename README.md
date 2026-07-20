@@ -1,6 +1,5 @@
 # COVID-19 Early Case Trend Analysis & Recovery Insights Engine
-
-Developed by **Akshey Sehgal** | B.Tech Robotics & AI  
+Developed by **Garv Verma** | B.Tech AI & ML 
 *Project for Corporate Placement Evaluation (HealthGuard Analytics Pvt. Ltd.)*
 
 ## 📌 Project Overview
@@ -21,7 +20,7 @@ A production-grade, multi-page data workstation engineered to process early-stag
 ## 🚀 Local Installation & Deployment
 ```bash
 # Clone the repository
-git clone https://github.com/anshu26427/COVID-19-Analysis-and-Report.git
+git clone https://github.com/GarvVerma8080/COVID-19-Analysis-and-Prediction/edit/main
 
 # Install application dependencies
 pip install -r requirements.txt
@@ -30,5 +29,5 @@ pip install -r requirements.txt
 python train_pipeline.py
 
 # Launch the Streamlit visualization hub
-streamlit run app.py
+python -m streamlit run app.py
 ```
